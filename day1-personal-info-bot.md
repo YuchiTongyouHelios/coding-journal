@@ -1,7 +1,7 @@
 # Day 1: Personal Info Bot
 
 ## What I Built
-A program that asks for your name, last name, and birth year, then tells you your age and initials.
+A program that asks for your first name, last name, and birth year, then tells you your age and initials.
 
 ## The Code
 ```python
@@ -27,9 +27,7 @@ int() converts text to numbers
 
 Variables store information like first_name
 
-[0] gets the first letter of a string
-
-+ joins text together
+[0] gets the first letter of a string + joins text together
 
 ## Problems I Fixed
 Variable names – I first wrote first[0]name which is invalid. Fixed to first_name.
