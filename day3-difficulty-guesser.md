@@ -55,3 +55,17 @@ Wrong range in prompt – I forgot to update the input message. Fixed with f-str
 Invalid choice crash – Added else to default to Easy.
 
 Hints still showed 1-10 – Updated both "too low" and "too high" messages.
+
+## Proof
+Choose difficulty:
+1 - Easy (1-10)
+2 - Medium (1-50)
+3 - Hard (1-100)
+Enter 1, 2, or 3: 2
+Guess a number 1-50: 25
+Too high. Guess between 1-50.
+Guess a number 1-50: 12
+Too low. Guess between 1-50.
+Guess a number 1-50: 18
+You got it!
+You took 3 tries.
