@@ -7,3 +7,7 @@
 ## Day 2
 - [Number Guessing Game](day2-number-guesser.md)
 - [Python Code](day2-number-guesser.py)
+
+## Day 3
+- [Difficulty Guesser](day3-difficulty-guesser.md)
+- [Python Code](day3-difficulty-guesser.py)
