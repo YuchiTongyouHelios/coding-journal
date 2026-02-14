@@ -15,3 +15,7 @@
 ## Day 4
 - [Play Again Game](day4-play-again.md)
 - [Python Code](day4-play-again.py)
+
+## Day 5
+- [Score Tracker](day5-score-tracker.md)
+- [Python Code](day5-score-tracker.py)
