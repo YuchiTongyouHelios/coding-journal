@@ -30,7 +30,7 @@
 - Build a to-do list app with file saving
 
 ## Code
-
+```pyhton
 import random
 from datetime import date
 try:
