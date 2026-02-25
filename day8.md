@@ -4,7 +4,7 @@
 
 - **Day 8:** To-do list skeleton with a menu loop (Add/View/Quit) and in-memory task storage using a Python list.
 
-## What I Learned
+## What I Learned 
 
 - Using `while True` for a persistent menu.
 - The critical difference between `if` and `elif` to prevent multiple branches from running.
