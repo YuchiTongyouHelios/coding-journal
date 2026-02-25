@@ -1,4 +1,4 @@
-# Day 10: File Saving (Finally)
+# Day 10: File Saving
 
 ## What I Built
 - Tasks now save to `tasks.txt` automatically
