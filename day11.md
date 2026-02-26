@@ -25,7 +25,7 @@
 
 ## My Code (End of Day 11)
 ```python
-s = []
+tasks = []
 try:
     with open("tasks.txt","r") as f:
         for line in f:
@@ -71,6 +71,7 @@ while True:
                 except ValueError:
                     print ("That's not a valid number. PLease enter a number")
             index = int(task_num) - 1
+            tasks.pop(index)
             print (f"Removed task {task_num}")
     elif choice == "4":
         if not tasks:
