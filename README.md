@@ -7,6 +7,7 @@ I'm a 14-year-old learning to code, one week at a time. This repository document
 | Week | Project | Summary |
 | :--- | :--- | :--- |
 | [Week 1](week1.md) | **Number Guesser** | A command-line game with difficulty levels, persistent high scores, and file storage. |
+| [Week 2](week2.md) | **To-Do List App** | A terminal-based task manager with add/view/remove/complete, persistent file storage, input validation, search, and a fully refactored function-based structure. |
 
 ## About This Journey
 
@@ -17,7 +18,5 @@ I started coding seriously in February 2026. The goal is consistent progress, no
 *   Build projects, not just follow tutorials.
 *   Document struggles and breakthroughs.
 *   Upload progress to GitHub weekly.
-
----
 
 *Started on February 14, 2026*
