@@ -1,6 +1,6 @@
 # My Coding Journey
 
-I'm a 14-year-old learning to code, one week at a time. This repository documents my progress, projects, and the things I learn along the way.
+I'm a 14-year-old learning to code, everyday. This repository documents my progress, projects, and the things I learn along the way.
 
 ## Weekly Logs
 
@@ -11,12 +11,12 @@ I'm a 14-year-old learning to code, one week at a time. This repository document
 | [Week 3](week3.md) | **Drilling the Fundamentals** | A focused week of drills on indexes, return vs print, function parameters, file save timing, and rebuilding core concepts from scratch to own them. |
 ## About This Journey
 
-I started coding seriously in February 2026. The goal is consistent progress, not perfection. Each week, I build one project and document everything I learn.
+I started coding seriously in February 2026. The goal is consistent progress, not perfection. Each day, I build one project and document everything I learn.
 
 **Key principles I follow:**
 *   Code every day.
 *   Build projects, not just follow tutorials.
 *   Document struggles and breakthroughs.
-*   Upload progress to GitHub weekly.
+*   Upload progress to GitHub daily.
 
 *Started on February 14, 2026*
