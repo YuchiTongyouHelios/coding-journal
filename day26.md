@@ -41,3 +41,8 @@ The terminal isn't that scaryas i thought it would be! I always used graphical c
 How exactly SSL certificates work and why they break
 What CMake actually does and why some packages need it
 The difference between release candidates, pre-releases, and stable versions
+
+##  What I DON'T Understand Yet (But Will Learn)
+- How logarithms convert frequency to pitch
+- What NumPy arrays are and why [~np.isnan()] works
+- How MIDI numbers map to note names
