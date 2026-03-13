@@ -19,4 +19,12 @@ I started coding seriously in February 2026. The goal is consistent progress, no
 *   Document struggles and breakthroughs.
 *   Upload progress to GitHub daily.
 
+**My Hardest Lesson (March 2026):**
+*   Never copy-paste code I don't understand.
+*   If I can't explain each line, I can't commit it.
+*   AI is a teacher, not a writer.
+*   Public confession > private shame.
+
+[The day I reset my integrity →](Confession.md)
+
 *Started on February 14, 2026*
