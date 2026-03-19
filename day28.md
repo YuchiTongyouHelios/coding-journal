@@ -9,4 +9,4 @@ Wrote a complete summary of my first month of coding: `month1.md`.
 - Planning Month 2: HTML, CSS, and bringing Python projects to the browser.
 
 ## Key Takeaway
-One month down. The habit is set. Now the real fun begins.
+One month down. Countless more to go. (Hyped over the fact that I didn't quit!)
