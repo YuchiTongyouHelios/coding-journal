@@ -27,7 +27,7 @@ A personal profile page with a contact form (name, email, message) and a short b
             <textarea id="message" name="message"></textarea><br>
             <input type="submit" value="Submit">
         </form>
-        <p>I am a software engineer with a passion for building innovative solutions. I have experience in various programming languages and frameworks, and I enjoy working on projects that challenge me to learn and grow.</p>
+        <p>I am studying in Grade 8.</p>
         <p>In my free time, I like to explore new technologies, contribute to open source projects, and connect with other developers in the community. I believe in the power of collaboration and continuous learning to drive progress in the tech industry.</p>
         <p>If you want to connect or learn more about my work, feel free to reach out!</p>
         <p>My Email is abc@gmail.com</p>
