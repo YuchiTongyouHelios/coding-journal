@@ -10,6 +10,7 @@ A leaderboard table showing top tutors with ranks, names, points, and ratings.
 - `<th>` is a header cell (bold and centered by default).
 - `<td>` is a standard data cell.
 - Tables are for **tabular data** – things that fit in rows and columns.
+- What I struggled with today was getting the <thead> and <tbody> structure right. I originally closed </thead> before opening it.
 
 ## My Code
 ```html
@@ -41,21 +42,21 @@ A leaderboard table showing top tutors with ranks, names, points, and ratings.
         <tr>
             <td>2</td>
             <td>Jake</td>
-            <td>1551</td>
+            <td>1450</td>
             <td>4.5</td>
             <td>50</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Sam</td>
-            <td>14500</td>
+            <td>1400</td>
             <td>4.5</td>
             <td>20</td>
         </tr>    
          <tr>
             <td>4</td>
             <td>Tom Chan</td>
-            <td>1400</td>
+            <td>1300</td>
             <td>4</td>
             <td>10</td>
         </tr>
