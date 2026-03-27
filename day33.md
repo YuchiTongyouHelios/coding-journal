@@ -42,14 +42,14 @@ A leaderboard table showing top tutors with ranks, names, points, and ratings.
         <tr>
             <td>2</td>
             <td>Jake</td>
-            <td>1551</td>
+            <td>1445</td>
             <td>4.5</td>
             <td>50</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Sam</td>
-            <td>14500</td>
+            <td>1420</td>
             <td>4.5</td>
             <td>20</td>
         </tr>    
