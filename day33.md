@@ -42,23 +42,30 @@ A leaderboard table showing top tutors with ranks, names, points, and ratings.
         <tr>
             <td>2</td>
             <td>Jake</td>
-            <td>1450</td>
+            <td>1551</td>
             <td>4.5</td>
             <td>50</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Sam</td>
-            <td>1400</td>
+            <td>14500</td>
             <td>4.5</td>
             <td>20</td>
         </tr>    
          <tr>
             <td>4</td>
             <td>Tom Chan</td>
-            <td>1300</td>
+            <td>1400</td>
             <td>4</td>
             <td>10</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Lisa</td>
+            <td>1300</td>
+            <td>3.5</td>
+            <td>5</td>
         </tr>
     </tbody>
     </table>
