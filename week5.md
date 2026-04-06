@@ -8,9 +8,9 @@ After a month of Python, I started learning HTML and CSS. I built a personal pag
 |-----|----------------|---------------|
 | 29 | First HTML Page | Tags, headings, lists, paragraphs, inline CSS (`<style>`) |
 | 30 | Links & Images | `<a>` href, `<img>` src, alt text, link targets, debugging broken images |
-| 31 | (rest day / review) | – |
-| 32 | HTML Form | `<form>`, `<input>`, `<label>`, `type="text"`, `type="email"`, submit button |
-| 33 | HTML Table | `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, `<td>`, border attribute |
+| 31 | Contact Form + Bio Page | `<form>`, `<input>`, `<textarea>`, `<label>`, submit button, connecting `for` and `id` |
+| 32 | HTML Form (simple) | `type="text"`, `type="email"`, `required` attribute |
+| 33 | HTML Table | `<td>`, `<th>`, `<td>`, `<thead>`, `<tbody>`, logical data ordering |
 | 34 | Semantic HTML | `<header>`, `<nav>`, `<main>`, `<article>`, `<footer>` – meaning over appearance |
 | 35 | CSS Basics | Selectors, colors, fonts, box model (margin/padding), hover effects, `<style>` placement |
 
@@ -22,14 +22,15 @@ After a month of Python, I started learning HTML and CSS. I built a personal pag
 - Live Server in VS Code shows changes instantly – better than double‑clicking files.
 - **Broken images taught me** that some URLs block hotlinking (403 errors). I switched to placekitten.com.
 
-#### 📝 Forms (Day 32)
+#### 📝 Forms (Days 31–32)
 - `<form>` wraps everything. `action` and `method` control where data goes (we'll use later).
-- `<label>` with `for` connects to an input's `id` – makes form accessible.
+- `<label>` with `for` connects to an input's `id` – makes form accessible and lets you click the label to focus the field.
 - Different input types: `text`, `email`, `submit`. The browser validates email format.
+- `<textarea>` for multi‑line messages.
 - I typed the whole form manually – no copy‑paste.
 
 #### 📊 Tables (Day 33)
-- `<tr>` for rows, `<th>` for headers, `<td>` for data cells.
+- `<table>` for table, `<tr>` for rows, `<th>` for headers, `<td>` for data cells.
 - `<thead>` and `<tbody>` group header and body rows – helps with styling later.
 - **Struggled with ordering** – my points were random at first. Had to fix so rank 1 had highest points. Learned that data must be logical, not just any numbers.
 
@@ -44,6 +45,34 @@ After a month of Python, I started learning HTML and CSS. I built a personal pag
 - Properties: `background-color`, `color`, `font-family`, `margin`, `padding`, `border`, `text-align`.
 - `:hover` pseudo‑class changes style when mouse over.
 - **Typo alert:** `san-serif` doesn't work; it's `sans-serif`.
+
+### Code Snippets
+
+#### Day 31 – Contact Form + Bio Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hi, I am Helios Yuchi</title>
+</head>
+<body>
+    <h1>Contact me</h1>
+    <form>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message"></textarea><br>
+        <input type="submit" value="Submit">
+    </form>
+    <p>I am studying in Grade 8.</p>
+    <p>In my free time, I like to explore new technologies...</p>
+    <p>If you want to connect or learn more about my work, feel free to reach out!</p>
+    <p>My Email is abc@gmail.com</p>
+</body>
+</html>
 
 ### Code Snippet – Final Styled Blog (Day 35)
 
